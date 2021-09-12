@@ -5,7 +5,6 @@ class helloo{
         double IN = bruh;
         System.out.println("hell");
         System.out.print("hell ");
-        System.out.println(bruh);
         System.out.println(IN);
  
 /* 
